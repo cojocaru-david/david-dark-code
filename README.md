@@ -14,6 +14,11 @@ David Dark is a dark theme for VS Code. It is based on the github theme and the 
 - A comfortable and stylish coding environment that's both professional and fun.
 
 # Installation
++ AUTO
+1. https://marketplace.visualstudio.com/items?itemName=cojocaru-david.david-dark-code
+2. CLICK ON LINK AND INSTALL
+
++ MANUAL
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 2. Search for `David Dark Code`
 3. Click **Install**
