@@ -2,10 +2,19 @@
   "name": "david-dark-code",
   "displayName": "David Dark Code",
   "description": "David Dark is a dark theme for VS Code. It is based on the github theme and the default dark theme. It is designed to be easy on the eyes and to be used for long periods of time.",
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Jasmine"
+  ],
+  "scripts": {
+    "postinstall": "node ./node_modules/vsce/out/main --install-extensionPublisher cojocaru-david --install-extensionName david-dark-code --install-extensionVersion 0.2.1"
+  },
   "icon": "images/logo.png",
   "publisher": "cojocaru-david",
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.2.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/cojocaru-david/david-dark-code.git"
@@ -16,6 +25,19 @@
   "categories": [
     "Themes"
   ],
+  "author": {
+    "name": "David Cojocaru",
+    "email": "contact@cojocarudavid.me"
+  },
+  "bugs": {
+    "url": "https://github.com/cojocaru-david/david-dark-code/issues",
+    "email": "contact@cojocarudavid.me"
+  },
+  "homepage": "https://github.com/cojocaru-david/david-dark-code",
+  "galleryBanner": {
+    "color": "#6495ED",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -24,5 +46,8 @@
         "path": "./themes/david-dark-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }
