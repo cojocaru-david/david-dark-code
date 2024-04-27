@@ -1,5 +1,7 @@
 ## David Dark VS Code Theme:  Code in Style, Code with Comfort
 
+ ![Covert](/images/Cover.png)
+
 **Embrace the Dark Side of Coding**
 
 Unleash your inner coding ninja with David Dark, a meticulously crafted VS Code theme designed for extended coding sessions and ultimate eye comfort. Inspired by the best of both worlds (GitHub and default dark themes), David Dark offers a visually stunning and practical coding environment.
@@ -12,7 +14,7 @@ Unleash your inner coding ninja with David Dark, a meticulously crafted VS Code 
 - **Professional Yet Playful:**  Strike the perfect balance between aesthetics and professionalism with David Dark's unique design. Enjoy a coding environment that's both fun and functional.
 - **Blue is the New Black:**  David Dark's signature blue accent color adds a touch of elegance and sophistication to your code, making it stand out from the crowd.
 
-## Installation: It's as Easy as 1, 2, 3!**
+## Installation: It's as Easy as 1, 2, 3!
 
 **Automatic Installation:**
 
